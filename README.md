@@ -20,15 +20,15 @@ Basic knowledge of **Java Applets** and willingness to learn should suffice.
 
 A wonderful horse (I call it \'Apun ka Chetak\') with lively color.
 ![Horse image](horse.jpeg)
-1. **Flower**
+2. **Flower**
 
 A simple flower in a pot.
 ![Flower image](flower.png)
-1. **Butterfly**
+3. **Butterfly**
 
 A cute little Butterfly.
 ![Butterfly image](butterfly.png)
-1. **Emojis**
+4. **Emojis**
 
 We all know emojis, right? Have a look.
 - Happy
@@ -39,7 +39,7 @@ We all know emojis, right? Have a look.
 ![Angry image](Moods/ANGRY.png)
 - Cunning
 ![Cunning image](Moods/CUNNING.png)
--Fearful
+- Fearful
 ![Fearful image](Moods/FEARFUL.png)
 - Surprised
 ![Surprised image](Moods/SURPRISED.png)
