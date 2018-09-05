@@ -16,18 +16,22 @@ Basic knowledge of **Java Applets** and willingness to learn should suffice.
 - **Ellipse Rotation Algorithm**
 
 ## Props in the box
+
 1. **Horse**
 
 A wonderful horse (I call it \'Apun ka Chetak\') with lively color.
 ![Horse image](horse.jpeg)
+
 2. **Flower**
 
 A simple flower in a pot.
 ![Flower image](flower.png)
+
 3. **Butterfly**
 
 A cute little Butterfly.
 ![Butterfly image](butterfly.png)
+
 4. **Emojis**
 
 We all know emojis, right? Have a look.
